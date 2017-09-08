@@ -7,11 +7,12 @@ Slug: my-super-post
 Authors: Josh Cook 
 Summary: Short version for index and feeds
 
-# This is the content of my super blog post.
+# Are you ready for greatness?
 
     $ pip install greatness
+There will be moments of matrix math, 
 
+\begin{pmatrix}y_{1}\\y_{2}\\\vdots \\y_{n}\end{pmatrix\
 
-\begin{pmatrix}y_{1}\\y_{2}\\\vdots \\y_{n}\end{pmatrix}
-
+Sqaured. 
 $x^2$
